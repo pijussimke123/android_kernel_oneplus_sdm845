@@ -85,7 +85,7 @@
 /* Let the trace headers be reread */
 #define TRACE_HEADER_MULTI_READ
 
-#include TRACE_INCLUDE(TRACE_INCLUDE_FILE)
+#include TRACE_INCLUDE(/home/andissace/Downloads/sdm845echilada/android_kernel_oneplus_sdm845/drivers/clk/qcom/mdss/mdss/mdss_pll_trace.h)
 
 /* Make all open coded DECLARE_TRACE nops */
 #undef DECLARE_TRACE
